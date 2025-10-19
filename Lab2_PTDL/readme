@@ -1,0 +1,25 @@
+Phân tích dữ liệu “US Baby Names” nhằm:
++ Khám phá xu hướng đặt tên trẻ em ở Mỹ trong hơn 130 năm (1880–2010);
++ Tìm hiểu sự phổ biến của từng tên theo thời gian;
++ Đánh giá sự đa dạng văn hóa và thay đổi giới tính trong đặt tên;
++ Xác định các mô hình dài hạn (long-term patterns) về độ phổ biến, vòng đời của tên, và tác động xã hội.
+
+Câu hỏi nghiên cứu (Research Questions)
+1) Phân tích Mô tả
++ Số lượng trẻ sinh theo giới tính thay đổi như thế nào từ 1880–2010?
++ Tên nào phổ biến nhất mỗi thập kỷ (top 10 theo năm hoặc giới)?
++ Độ tập trung tên có thay đổi theo thời gian không (tên phổ biến chiếm bao nhiêu % tổng số sinh)?
+
+2) Phân tích khám phá
++ Xu hướng đa dạng hóa tên (name diversity) có tăng theo thời gian không?
+→ đo bằng tỉ lệ tích lũy: bao nhiêu tên chiếm 50% dân số mỗi năm.
++ Tên “trung tính” (ví dụ Jordan, Taylor) có tăng lên không?
+→ so sánh tỷ lệ giữa hai giới trong cùng một tên.
+
+3) Phân tích so sánh
++ Sự phổ biến của tên có khác nhau giữa bé trai và bé gái không (độ tập trung tên nữ có cao hơn)?
++ Những tên xuất hiện ngắn hạn (short-lived) khác gì so với tên phổ biến lâu dài (long-lived)?
+
+4) Phân tích dự đoán
++ Có thể dự đoán tên nào sẽ biến mất hoặc quay trở lại phổ biến dựa trên xu hướng giảm/tăng trong 20 năm gần nhất?
++ Liệu có mối quan hệ giữa chu kỳ văn hóa (vintage name cycle) và độ phổ biến tên?
